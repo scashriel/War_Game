@@ -159,4 +159,5 @@ public class Card {
     public String getMessage(){
         return message;
     }
+
 }
