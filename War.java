@@ -10,5 +10,6 @@ public class War {
         WarPlays warGame = new WarPlays();
 
         warGame.startGame();
+	return;
     }
 }
