@@ -1,5 +1,7 @@
 //Draw a smiley
-import java.awt.*;
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.Font;
 import javax.swing.JPanel;
 import java.security.SecureRandom;
 
