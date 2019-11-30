@@ -1,3 +1,5 @@
+//class that instantiates a full game of war according to the rules laid out in the assignment
+
 import javax.swing.JOptionPane;
 import javax.swing.JFrame;
 
