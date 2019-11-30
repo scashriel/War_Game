@@ -160,4 +160,8 @@ public class Card {
         return message;
     }
 
+    protected boolean playRound(Card c2, DeckOfCards d1, DeckOfCards d2, DeckOfCards warDeck, int xSize1, int xSize2, int ySize) {
+        return true;
+    }
+
 }
